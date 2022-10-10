@@ -1,0 +1,11 @@
+cd nome-arquivo
+git commit -m "Nome da Pasta/Arquivo"
+git push
+git pull
+git clone <link https>
+git status
+git add . (adiciona todas as modificaçõea ao github)
+
+git init (criar o repositório)
+git rm -f{nome do arquivo}
+git clean
