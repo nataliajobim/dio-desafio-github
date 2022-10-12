@@ -1,3 +1,7 @@
 Variável do tipo LONG precisa ter um L no final
 
 Variável do tipo FLOAT precisa ter um F no final
+
+
+Constante leva o nome final e a identificação precisa estar em caixa alta.
+ex: final Double VALOR_DE_PI = 3.14;
