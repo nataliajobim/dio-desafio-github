@@ -1,0 +1,11 @@
+com = comercial
+org = organizacional
+org/opensource = opensourse
+
+Ex: com.hypertech.notification -> prefixo da finalidade do projeto com o nome da empresa
+    com.hypertech.notification.app
+    com.hypertech.notification.model
+    com.hypertech.notification.service
+    com.hypertech.notification.util
+    
+    
