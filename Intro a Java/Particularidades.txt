@@ -1,0 +1,3 @@
+Variável do tipo LONG precisa ter um L no final
+
+Variável do tipo FLOAT precisa ter um F no final
