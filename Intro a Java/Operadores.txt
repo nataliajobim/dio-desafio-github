@@ -1,0 +1,18 @@
+ = atribuição
+ + adição
+ - subtração
+ * multiplicação
+ / divisão
+ % módulo
+
+Unários:
++ valor positivo
+- valor negativo
+++ incremento de valor (de 1 em 1) [Colocar na frente na hora de imprimir para realizar o incremento imediato]
+-- decremento de valor (de 1 em 1) [Colocar na frente na hora de imprimir para realizar o decremento imediato]
+! negação [Colocar na frente na hora de imprimir para realizar o negação imediato]
+
+Ternário:
+? se a expressão for verdadeira
+: se a expressão for falsa
+ex: String resultado = a==b ?"verdadeiro" : "falso";
