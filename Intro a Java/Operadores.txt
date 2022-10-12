@@ -16,3 +16,16 @@ Ternário:
 ? se a expressão for verdadeira
 : se a expressão for falsa
 ex: String resultado = a==b ?"verdadeiro" : "falso";
+
+Relacionais:
+== se uma variável é igual a outra
+!= se uma variável é diferente da outra
+> se uma variável é maior que a outra
+< se uma variável é menor que a outra
+
+.equals para quando temos conteúdos de dois objetos
+ex: System.out.println(nomeUm.equals(nomeDois));
+
+Lógicos:
+&& é o operador lógico "E"
+|| é o operador lógico "OU"
